@@ -23,6 +23,11 @@ public class EmpController {
             System.out.println(emp);
         }
         return list;
+        
+        
+        
+        
+        
     }
     @RequestMapping("test1")
     public String test1(){
